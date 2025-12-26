@@ -42,17 +42,6 @@ Add 2–5 projects you are proud of, for example:
 
 ---
 
-## 📊 GitHub stats
-
-<!-- Replace USERNAME with your GitHub username in the links below -->
-
-<p align="center">
-  <a href="https://github.com/SzymonSzwinge">
-    <img src="https://github-readme-stats.vercel.app/api?username=SzymonSzwinge&show_icons=true&theme=radical" alt="GitHub stats" height="180" />
-  </a>
-</p>
-
----
 
 <p align="center">
   <a href="https://skillicons.dev">
